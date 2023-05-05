@@ -1,2 +1,2 @@
 # Taxi-booking-system
-python with my sql database
+python GUI with my sql database
